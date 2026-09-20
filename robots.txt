@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mitianbhaveshmatadecds-ops.github.io/bhavesh-ai/sitemap.xml
